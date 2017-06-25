@@ -1,0 +1,6 @@
+framework module YTCalendarLib {
+  umbrella header "YTCalendarLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

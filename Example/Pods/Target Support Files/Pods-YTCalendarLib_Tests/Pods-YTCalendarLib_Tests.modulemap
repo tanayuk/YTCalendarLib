@@ -1,0 +1,6 @@
+framework module Pods_YTCalendarLib_Tests {
+  umbrella header "Pods-YTCalendarLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

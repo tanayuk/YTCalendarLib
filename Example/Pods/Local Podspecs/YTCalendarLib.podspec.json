@@ -1,0 +1,22 @@
+{
+  "name": "YTCalendarLib",
+  "version": "0.1.0",
+  "summary": "A short description of YTCalendarLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tanayuk/YTCalendarLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tanayuk": "tanaka@wedgebrothers.jp"
+  },
+  "source": {
+    "git": "https://github.com/tanayuk/YTCalendarLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YTCalendarLib/Classes/**/*"
+}
