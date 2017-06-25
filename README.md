@@ -22,7 +22,7 @@ pod "YTCalendarLib"
 
 ## Author
 
-tanayuk, tanaka@wedgebrothers.jp
+tanayuk, yuuki.tnk@gmail.com 
 
 ## License
 
